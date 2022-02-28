@@ -1,0 +1,71 @@
+body{
+
+
+  color: floralwhite;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, #CBCE91FF, #DDCAF5);
+  text-align: center;
+
+}
+
+.regles {
+font-size: 1.4em;
+width : 60%;
+margin-left: auto;
+margin-right: auto;
+text-align: justify;
+text-justify: inter-word;
+margin-top : 35px;
+text-shadow: 1px 1px 2px #512689;
+}
+
+
+.couple-mots1{
+font-size: 3em;
+font-family: 'El Messiri', sans-serif;
+text-shadow: 1px 2px 2px #7A55AA;
+}
+
+.couple-mots2{
+font-size: 3em;
+font-family: 'El Messiri', cursive;
+text-shadow: 1px 2px 2px #7A55AA;
+
+}
+
+#demo {
+
+  font-size: 0.8em;
+}
+
+#vosMots {
+  font-size: 2.5em;
+}
+
+
+button{
+  
+   margin: 0px;
+  width: 180px;
+  height: 100px;
+  padding: 10px 10px;
+  font-size: 1.5em;
+  font-family: Sofia;
+  text-align : auto;
+  border-style: hidden;
+  background:floralwhite;
+  color:#8F5DD1;
+  border-radius: 15%;
+  box-shadow: 0 4px 4px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+button:hover {
+  
+  font-size: 1.7em; 
+  background:floralwhite;
+  color:#8F5DD1;
+  border-radius: 25%;
+  cursor: grab;
+  box-shadow: 10px 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
